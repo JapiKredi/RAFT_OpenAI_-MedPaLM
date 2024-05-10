@@ -61,3 +61,4 @@ node_modules/
 
 # Streamlit-related files
 .streamlit/
+.DS_Store
